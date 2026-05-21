@@ -29,7 +29,29 @@ The application:
 - Git & GitHub
 
 ---
+### API Source 🌐
 
+This project uses the JSONPlaceholder REST API as a mock data source for employee/user records.
+
+API Endpoint:
+
+```text
+https://jsonplaceholder.typicode.com/users
+```
+
+JSONPlaceholder is a free online REST API commonly used for testing, prototyping, and learning API integrations.
+
+The application retrieves user information such as:
+
+- User ID
+- Name
+- Email
+- City
+
+and stores it in a SQLite database for validation and reporting.
+
+
+--
 ## Project Structure :memo:
 
 ```text
