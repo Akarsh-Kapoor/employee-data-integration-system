@@ -41,8 +41,6 @@ employee-data-integration-system/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── app.log
-├── employee_report.csv
 └── screenshots/
 ```
 
