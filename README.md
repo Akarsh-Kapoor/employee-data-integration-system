@@ -51,7 +51,7 @@ The application retrieves user information such as:
 and stores it in a SQLite database for validation and reporting.
 
 
---
+---
 ## Project Structure :memo:
 
 ```text
