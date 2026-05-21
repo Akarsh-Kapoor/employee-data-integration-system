@@ -1,6 +1,6 @@
 # Employee Data Integration System 🧑‍💻
 
-## Overview
+## Overview :page_facing_up:
 
 This project demonstrates a simple data integration workflow using Python, SQLite, SQL, and REST APIs.
 
