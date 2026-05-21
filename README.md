@@ -1,4 +1,4 @@
-# Employee Data Integration System
+# Employee Data Integration System 🧑‍💻
 
 ## Overview
 
@@ -11,17 +11,15 @@ The application:
 - Performs data validation checks
 - Generates reports using SQL queries
 - Includes error handling for API failures
-- Can be deployed on AWS EC2
 
-## Tech Stack
+## Tech Stack :pushpin:
 
 - Python
 - SQLite
 - SQL
 - Requests Library
-- AWS EC2 (Optional Deployment)
 
-## Project Structure
+## Project Structure :memo:
 
 employee-data-integration-system/
 │
@@ -32,31 +30,26 @@ employee-data-integration-system/
 ├── README.md
 └── .gitignore
 
-## Features
+## Features :sparkles:
 
-### API Integration
+### API Integration :zap:
 
 Fetches employee data from JSONPlaceholder API.
 
-### Database Storage
+### Database Storage :package:
 
 Stores employee information in SQLite.
 
-### Data Validation
+### Data Validation :white_check_mark:
 
 Checks for duplicate emails.
 
-### Reporting
+### Reporting :chart_with_upwards_trend:
 
 Generates city-wise employee counts.
 
-## Sample Workflow
+## Sample Workflow :hammer:
 
 API → Python → SQLite → Validation → Reporting
-
-## Future Improvements
-
-- AWS S3 integration
-- Streamlit dashboard
 - Automated scheduling
 - Authentication support
