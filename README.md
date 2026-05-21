@@ -30,7 +30,7 @@ employee-data-integration-system/
 ├── README.md
 └── .gitignore
 
-## Features :sparkles:
+## Features :rocket:
 
 ### API Integration :zap:
 
