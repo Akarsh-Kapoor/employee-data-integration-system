@@ -20,7 +20,7 @@ The application:
 - Requests Library
 
 ## Project Structure :memo:
-
+```
 employee-data-integration-system/
 │
 ├── main.py
@@ -29,6 +29,7 @@ employee-data-integration-system/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Features :rocket:
 
