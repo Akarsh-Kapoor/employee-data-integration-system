@@ -141,6 +141,15 @@ The application was deployed on an AWS EC2 Ubuntu instance to simulate a cloud-h
 - Email-based report delivery
 
 ---
+## Sample Outputs 🚨
+
+### Application Logs
+
+![Logs](screenshots/app-log.png)
+
+### Generated CSV Report
+
+![CSV Report](screenshots/employee-report.png)
 
 ## 🌟 About Me
 
