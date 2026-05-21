@@ -54,3 +54,13 @@ Generates city-wise employee counts.
 API → Python → SQLite → Validation → Reporting
 - Automated scheduling
 - Authentication support
+
+---
+## 🌟 About Me
+
+Hi there! I'm **Akarsh Kapoor**. I'm a curious data enthusiast who loves exploring SQL, analytics, and real-world problem solving. This project was built as part of my journey to better understand how APIs, databases, cloud platforms, and automation workflows come together to solve real-world business problems.
+I enjoy turning raw data into useful insights while building projects that make learning data both practical and fun!
+
+Let's stay in touch! Feel free to connect with me :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kapoor/)
