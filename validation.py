@@ -28,5 +28,15 @@ report = cursor.fetchall()
 print("\nEmployees by City:")
 print(report)
 
+import pandas as pd
+
+df = pd.DataFrame(
+    report,
+    columns=["City", "Employee_Count"]
+)
+
+df.to_csv("employee_report.csv", index=False)
+
+print("\nCSV Report Generated Successfully")
 # Close only after ALL queries
 conn.close()
